@@ -1,4 +1,4 @@
-# Javascript-Map-Exercisies
+# Javascript Exercisies
 ## map() exercises
 
 ordered List
