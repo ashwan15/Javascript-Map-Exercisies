@@ -1,5 +1,5 @@
 # Javascript-Map-Exercisies
-#h# map() exercises
+## map() exercises
 
 ordered List
 - Take an array of numbers and make them strings
