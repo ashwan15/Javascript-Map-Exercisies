@@ -1,7 +1,7 @@
 # Javascript-Map-Exercisies
 map() exercises
 
-#H1 Question-1:
+ordered List
 1.Take an array of numbers and make them strings
 2.Capitalize each of an array of names
 3.Make an array of strings of the names
